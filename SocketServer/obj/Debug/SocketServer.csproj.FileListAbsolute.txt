@@ -1,0 +1,7 @@
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\bin\Debug\SocketServer.exe.config
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\bin\Debug\SocketServer.exe
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\bin\Debug\SocketServer.pdb
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\obj\Debug\SocketServer.csproj.AssemblyReference.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\obj\Debug\SocketServer.exe
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketServer\obj\Debug\SocketServer.pdb

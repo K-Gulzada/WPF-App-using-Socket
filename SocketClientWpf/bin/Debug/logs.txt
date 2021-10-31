@@ -1,0 +1,5 @@
+31.10.2021 21:52:46System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.TextBox.get_Text()
+   at SocketClientWpf.MainWindow.ConnectCallback(IAsyncResult ar) in C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\MainWindow.xaml.cs:line 89

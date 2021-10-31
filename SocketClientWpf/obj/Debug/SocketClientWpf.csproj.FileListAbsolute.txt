@@ -1,0 +1,15 @@
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\bin\Debug\SocketClientWpf.exe.config
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\bin\Debug\SocketClientWpf.exe
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\bin\Debug\SocketClientWpf.pdb
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.csproj.AssemblyReference.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\App.g.cs
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf_MarkupCompile.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf_MarkupCompile.lref
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.g.resources
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.Properties.Resources.resources
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.csproj.GenerateResource.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.csproj.CoreCompileInputs.cache
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.exe
+C:\Users\Гульзада\Desktop\Step\Сетевое программирование\SocketClient\SocketClientWpf\obj\Debug\SocketClientWpf.pdb
